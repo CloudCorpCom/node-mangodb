@@ -1,0 +1,33 @@
+{
+  "name": "mangodb",
+  "version": "0.0.1",
+  "description": "A node implementation of https://github.com/dcramer/mangodb",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha -R spec --ui bdd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:TheEwok/node-mangodb.git"
+  },
+  "keywords": [
+    "MangoDB",
+    "Autosharting",
+    "webscale",
+    "datastore"
+  ],
+  "author": "Baz O'Mahony <the.ewok@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheEwok/node-mangodb/issues"
+  },
+  "homepage": "https://github.com/TheEwok/node-mangodb",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.21.4",
+    "sinon": "^1.10.3"
+  },
+  "dependencies": {
+    "config": "^1.0.2"
+  }
+}
