@@ -28,6 +28,7 @@
     "sinon": "^1.10.3"
   },
   "dependencies": {
-    "config": "^1.0.2"
+    "config": "^1.0.2",
+    "through": "^2.3.4"
   }
 }
