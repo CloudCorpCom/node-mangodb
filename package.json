@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:TheEwok/node-mangodb.git"
+    "url": "git@github.com:CloudCorpCom/node-mangodb.git"
   },
   "keywords": [
     "MangoDB",
@@ -19,9 +19,9 @@
   "author": "Baz O'Mahony <the.ewok@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TheEwok/node-mangodb/issues"
+    "url": "https://github.com/CloudCorpCom/node-mangodb/issues"
   },
-  "homepage": "https://github.com/TheEwok/node-mangodb",
+  "homepage": "https://github.com/CloudCorpCom/node-mangodb",
   "devDependencies": {
     "chai": "^1.9.1",
     "mocha": "^1.21.4",
